@@ -62,8 +62,8 @@ Sabar ya :v
 ```
 
 # SERVICE PORT SSH WEBSOCKET
-- BadVPN/UDPGW     : **7300**
 - SlowDNS          : **53, 5300**
+- BadVPN/UDPGW     : **7300**
 - SSH WS HTTPS     : **443, 2096**
 - SSH WS HTTP      : **80, 8080, 8000**
 
