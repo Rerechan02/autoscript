@@ -71,12 +71,12 @@ Sabar ya :v
 # SERVICE PORT XRAY WEBSOCKET
 - Nginx            : **81**
 - GRPC             : **443**
-- TROJAN WS HTTPS  : **443,2096**
-- VMESS  WS HTTPS  : **443,2096**
-- VLESS  WS HTTPS  : **443,2096**
 - TROJAN WS HTTP   : **80,8080**
 - VMESS  WS HTTP   : **80,8080**
 - VLESS  WS HTTP   : **80,8080**
+- TROJAN WS HTTPS  : **443,2096**
+- VMESS  WS HTTPS  : **443,2096**
+- VLESS  WS HTTPS  : **443,2096**
 
 # Payload Websocket Examples
 - ***Payload HTTPS***
