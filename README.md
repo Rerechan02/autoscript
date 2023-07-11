@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=FN+PROJECT" />
 </p>
-
+![Rerechan02 card name](https://cardivo.vercel.app/api?name=Funny%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
 
 <h2 align="center">VPN</h2>
 
@@ -87,3 +87,4 @@ GET ws://[host]/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connect
 ```
 GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerechan02[crlf][crlf]
 ```
+![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
