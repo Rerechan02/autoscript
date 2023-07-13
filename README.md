@@ -58,11 +58,12 @@ sudo -i
 - HARAP DI BACA
 - VPS WAJIB PUNYA AKSES ROOT
 ```
-Sabar ya :v
+wget https://github.com/Rerechan02/autoscript/raw/main/install.sh && bash install.sh
 ```
 
 # SERVICE PORT SSH WEBSOCKET
 - SlowDNS          : **53, 5300**
+- UDP-CSUTOM       : **1-65535**
 - BadVPN/UDPGW     : **7300**
 - SSH WS HTTPS     : **443, 2096**
 - SSH WS HTTP      : **80, 8080, 8000**
