@@ -58,7 +58,7 @@ sudo -i
 - HARAP DI BACA
 - VPS WAJIB PUNYA AKSES ROOT
 ```
-wget https://github.com/Rerechan02/autoscript/raw/main/install.sh && bash install.sh
+wget https://github.com/Rerechan02/autoscript/raw/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 # SERVICE PORT SSH WEBSOCKET
@@ -66,7 +66,7 @@ wget https://github.com/Rerechan02/autoscript/raw/main/install.sh && bash instal
 - UDP-CSUTOM       : **1-65535**
 - BadVPN/UDPGW     : **7300**
 - SSH WS HTTPS     : **443, 2096**
-- SSH WS HTTP      : **80, 8080, 8000**
+- SSH WS HTTP      : **80, 8080**
 
 
 # SERVICE PORT XRAY WEBSOCKET
