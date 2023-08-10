@@ -102,4 +102,4 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
   
  <!--end: status pages--> 
   
- [**Visit our status website →**](https://status.givpn.my.id)
+ [**Visit our status website →**](https://prof.rerechan02.com)
