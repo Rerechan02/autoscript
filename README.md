@@ -19,7 +19,7 @@
 </h2>
 <h2 align="center">Protokol Tunneling XRAY</h2>
 
-[![Hits](https://img.shields.io/badge/XRAY_VLESS/VMESS/TROJAN-WEBSOCKET_&_DNSTT_GRPC_XTLS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/XRAY_VLESS/VMESS/TROJAN-WEBSOCKET_&_DNSTT_&_GRPC_&_XTLS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
 
 # Cara Install Script FN
