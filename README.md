@@ -122,8 +122,6 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
   
      <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202022-%20By%20Rerechan02%20『𝐅𝐍』%2C%20Inc-blue"></p> 
   
- ## <img src="https://img.shields.io/badge/Autoscript_Multiport_Example-%20-green"></img> 
-  
  <b> 
  </b> 
  <br> 
