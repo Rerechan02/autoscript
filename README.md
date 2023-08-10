@@ -15,7 +15,7 @@
 </h2>
 <h2 align="center">Protokol Tunneling SSH</h2>
 
-[![Hits](https://img.shields.io/badge/SSH-WEBSOCKET_&_SLOWDNS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH-WEBSOCKET_&_SLOWDNS_&_SSL-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
 <h2 align="center">Protokol Tunneling XRAY</h2>
 
