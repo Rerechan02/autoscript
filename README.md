@@ -68,38 +68,50 @@ COMING SOON
  - OpenSSH                    : 80, 22, 3303 
  - SSH SSL/TLS                : 443
  - Dropbear                   : 109, 69, 143, 90, 83
- - Badvpn                     : 7200, 7300
- - Nginx Load                 : 85, 81, 89, 88, 1080
  - WebScket Apache2 HTTP      : 80 
  - WebScket Apache2 SSL/TLS   : 443
  - Udp Custom & Request       : 1-65535
 
  ```
  
-
-
-# INFORMATION FOR SCRIPT
-
+# XRAY MOD GOPROXY
 ```
-# SERVICE PORT SSH WEBSOCKET
-- SlowDNS          : **53, 5300**
-- UDP-CUSTOM       : **1-65535**
-- UDP-REQUEST      : **1-655535**
-- BadVPN/UDPGW     : **7200, 7300**
-- SSH WS HTTPS     : **443**
-- SSH WS HTTP      : **80**
-- SSH SSL TLS      : **443**
+- SUPPORT MULTIPATH
+- XRAY VMESS WS NON TLS   : 80
+- XRAY VLESS WS NON TLS   : 80
+- XRAY VMESS WS TLS/SSL   : 443
+- XRAY VLESS WS TLS/SSL   : 443
+- XRAY TROJAN WS TLS/SSL  : 443
+- GOPROXY WEBSOCKET & TCP : 80 & 443
+```
 
+# XRAY TCP XTLS HAPROXY
+```
+- XRAY VMESS TCP XTLS     : 443
+- XRAY VLESS TCP XTLS     : 443
+- XRAY TROJAN TCP XTLS    : 443
+```
 
-# SERVICE PORT XRAY WEBSOCKET
-- Nginx            : **81, 89, 1080**
-- GRPC             : **443**
-- TROJAN WS HTTP   : **80**
-- VMESS  WS HTTP   : **80**
-- VLESS  WS HTTP   : **80**
-- TROJAN WS HTTPS  : **443**
-- VMESS  WS HTTPS  : **443**
-- VLESS  WS HTTPS  : **443**
+# OTHER
+```
+- GRPC   : 443
+- NGINX  : 81, 89, 1080
+- UDPGW  : 7200, 7300
+```
+
+#CORE ALL SERVICE
+```
+- SSLH CORE FunnyVPN
+- XRAY CORE MOD DHARAK
+- GOPROXY ORGIN CORE
+- HAPROXY ORIGIN CORE
+- V2RAY ORIGIN CORE
+- SINGBOX ORIGIN CORE
+- XRAY XTLS ORIGIN CORE
+- APACHE2 ORIGIN CORE
+- V2rayFly ORIGIN CORE
+```
+
 ```
 # Payload Websocket Examples
 - ***Payload HTTPS***
