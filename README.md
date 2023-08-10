@@ -61,25 +61,29 @@ sudo -i
 COMING SOON
 ```
 
+# INFORMATION FOR SCRIPT
+
+```
 # SERVICE PORT SSH WEBSOCKET
 - SlowDNS          : **53, 5300**
-- UDP-CSUTOM       : **1-65535**
-- BadVPN/UDPGW     : **7300**
-- SSH WS HTTPS     : **443, 2096**
-- SSH WS HTTP      : **80, 8080**
+- UDP-CUSTOM       : **1-65535**
+- UDP-REQUEST      : **1-655535**
+- BadVPN/UDPGW     : **7200, 7300**
+- SSH WS HTTPS     : **443**
+- SSH WS HTTP      : **80**
 - SSH SSL TLS      : **443**
 
 
 # SERVICE PORT XRAY WEBSOCKET
-- Nginx            : **81**
+- Nginx            : **81, 89, 1080**
 - GRPC             : **443**
-- TROJAN WS HTTP   : **80, 8080**
-- VMESS  WS HTTP   : **80, 8080**
-- VLESS  WS HTTP   : **80, 8080**
-- TROJAN WS HTTPS  : **443, 2096**
-- VMESS  WS HTTPS  : **443, 2096**
-- VLESS  WS HTTPS  : **443, 2096**
-
+- TROJAN WS HTTP   : **80**
+- VMESS  WS HTTP   : **80**
+- VLESS  WS HTTP   : **80**
+- TROJAN WS HTTPS  : **443**
+- VMESS  WS HTTPS  : **443**
+- VLESS  WS HTTPS  : **443**
+```
 # Payload Websocket Examples
 - ***Payload HTTPS***
 ```
