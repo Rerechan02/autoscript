@@ -63,13 +63,13 @@ COMING SOON
 
 ## <img src="https://img.shields.io/badge/-Services%20%26%20Port-brightgreen"> 
   
+# SSH
 ```
-#SSH
  - OpenSSH                    : 80, 22, 3303 
  - SSH SSL/TLS                : 443
  - Dropbear                   : 109, 69, 143, 90, 83
  - Badvpn                     : 7200, 7300
- - Nginx Loa                  : 85, 81, 89, 88, 1080
+ - Nginx Load                 : 85, 81, 89, 88, 1080
  - WebScket Apache2 HTTP      : 80 
  - WebScket Apache2 SSL/TLS   : 443
  - Udp Custom & Request       : 1-65535
