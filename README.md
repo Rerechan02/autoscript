@@ -67,6 +67,7 @@ wget https://github.com/Rerechan02/autoscript/raw/main/install.sh && chmod +x in
 - BadVPN/UDPGW     : **7300**
 - SSH WS HTTPS     : **443, 2096**
 - SSH WS HTTP      : **80, 8080**
+- SSH SSL TLS      : **443**
 
 
 # SERVICE PORT XRAY WEBSOCKET
