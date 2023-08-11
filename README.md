@@ -1,8 +1,18 @@
+<p align="center">  
+    <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>  
+  </p>  
+  
+  
+                AUTOSCRIPT 『𝐅𝐍』  
+  
+  <p align="center">  
+    <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>  
+  </p> 
+ 
  <p align="center"> 
  <img height=21 src="https://komarev.com/ghpvc/?username=praiman99"> 
  </p>
 
-# AUTOSCRIPT 『𝐅𝐍』
 - Untuk script nya belum di buat, harap bersabar ya
 
 <p align="center">
