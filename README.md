@@ -204,3 +204,8 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffisabiliyusri%2FMantap&count_bg=%2379C83D&title_bg=%23555555&icon=t-mobile.svg&icon_color=%23FAC805&title=Di+Lihat&edge_flat=true)](https://hits.seeyoufarm.com) 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/Mantap&count_bg=%2379C83D&title_bg=%23555555&icon=angular.svg&icon_color=%2338FF00&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com) 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/Mantap&count_bg=%2379C83D&title_bg=%23555555&icon=pixiv.svg&icon_color=%2300BDFF&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+## Stargazers over time 
+  
+ [![Stargazers over time](https://starchart.cc/firdaus-rx/AutoScriptXray.svg)](https://starchart.cc/firdaus-rx/autoscript)
