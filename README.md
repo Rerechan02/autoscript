@@ -1,6 +1,7 @@
  <p align="center"> 
  <img height=21 src="https://komarev.com/ghpvc/?username=praiman99"> 
  </p>
+
 # AUTOSCRIPT 『𝐅𝐍』
 - Untuk script nya belum di buat, harap bersabar ya
 
