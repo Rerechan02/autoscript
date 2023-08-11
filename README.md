@@ -171,7 +171,7 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
   
  -   Owner Rerechan02  
  -   Original Script by FunnyVPN & Github
- -   Modded and update Script by t.me/Rerechan02 / wa.me/Rerechan02
+ -   Modded and update Script by t.me/Rerechan02 / wa.me/6283120684925
   
   
   
