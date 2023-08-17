@@ -81,11 +81,11 @@ COMING SOON
 <b><details><summary>Service & Port</summary></b> 
  <p align="center"> 
  <img src="https://telegra.ph/file/5ea099c50949711920149.jpg"/> 
-## <img src="https://img.shields.io/badge/-Services%20%26%20Port-brightgreen"> 
+<img src="https://img.shields.io/badge/-Services%20%26%20Port-brightgreen"> 
   
 # SSH
 ```
- - OpenSSH                    : 80, 22, 3303 
+ - OpenSSH                    : 22, 3303 
  - SSH SSL/TLS                : 443
  - Dropbear                   : 109, 69, 143, 90, 83
  - WebScket Apache2 HTTP      : 80 
@@ -99,10 +99,11 @@ COMING SOON
 - SUPPORT MULTIPATH
 - XRAY VMESS WS NON TLS      : 80
 - XRAY VLESS WS NON TLS      : 80
+- XRAY SOCKS5 WS NON TLS     : 80
 - XRAY VMESS WS TLS/SSL      : 443
 - XRAY VLESS WS TLS/SSL      : 443
 - XRAY TROJAN WS TLS/SSL     : 443
-- XRAY SHADOWSOCK WS TLS/SSL : 443
+- XRAY SOCKS5 WS TLS/SSL     : 443
 - GOPROXY WEBSOCKET & TCP    : 80 & 443
 ```
 
@@ -117,7 +118,7 @@ COMING SOON
 # OTHER
 ```
 - GRPC     : 443
-- NGINX    : 81, 89, 800
+- NGINX    : 81, 89
 - UDPGW    : 7200, 7300
 - HAPROXY  : 443
 - GOPROXY  : 443, 80, 8080
@@ -133,26 +134,23 @@ COMING SOON
 - XRAY CORE MOD DHARAK
 - GOPROXY ORGIN CORE
 - HAPROXY ORIGIN CORE
-- V2RAY ORIGIN CORE
-- SINGBOX ORIGIN CORE
 - XRAY XTLS ORIGIN CORE
 - APACHE2 ORIGIN CORE
-- V2rayFly ORIGIN CORE
 ```
 
 # FEATURE
 ```
-- LIMIT IP
 - CHANGE DNS
 - BLOCK TORENT
-- LIMIT QUOTA/DATA
+- INSTALL TCP BBR
 - SWITCH CORE SSH SSL
 - ANTI DDOS PROTECTION
 - ACOUNT SUPPORT GAMING
 - ACOUNT SUPPORT OPENWRT
 - LIMI SPEED / BANDWIDTH
 - CEK USER LOGIN - ALL METODE
-- INSTALL TCP BBR & UNINSTALL TCP BBR
+- TURN ON & OFF SERVICE IN MENU
+- SERVICE STREAMING SUPPORT CHEKER
 - CEK ALL SERVICE RUNNING OR NOT FOR ABOUT
 ```
 
