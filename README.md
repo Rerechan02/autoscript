@@ -166,9 +166,6 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
 ```
 </details>
 
-![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
-
-
 <b><details><summary>INFO</summary></b> 
 ## Info  
  ```diff 
@@ -273,3 +270,6 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
  [![Stargazers over time](https://starchart.cc/firdaus-rx/AutoScriptXray.svg)](https://starchart.cc/firdaus-rx/autoscript)
 
 </details>
+
+
+![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
