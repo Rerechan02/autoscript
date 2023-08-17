@@ -171,6 +171,7 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
 
 
+<b><details><summary>INFO</summary></b> 
 ## Info  
  ```diff 
  - HAPROXY OVER TCP, GOPROXY WS V2RAY, APACHE2 SSH WEBSOCKET, XRAY MOD, SSLH MOD
@@ -199,7 +200,8 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
  <b> 
  </b> 
  <br> 
- 
+
+</details>
 
 # Server Status 
  <!--start: status pages--> 
