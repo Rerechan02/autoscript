@@ -196,8 +196,7 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
  </b> 
  <br> 
 
-💬 Sepuh Yang Mengajari Saya👇
-<a href="https://t.me/procopas" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+💬 Sepuh Yang Mengajari Saya ==> <a href="https://t.me/procopas" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 </details>
 
