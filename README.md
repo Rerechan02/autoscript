@@ -230,6 +230,17 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
   
  --- 
  
+## (ANALYSIS) 
+ <p align="center"> 
+  
+ <a href="https://github.com/Rerechan02"> 
+  
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rerechan02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rerechan02&layout=compact&langs_count=8&theme=algolia"/> 
+  
+ </a> 
+ </p>
 
 ## Stargazers over time 
   
