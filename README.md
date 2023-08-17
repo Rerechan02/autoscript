@@ -87,7 +87,7 @@ COMING SOON
 ```
  - OpenSSH                    : 22, 3303 
  - SSH SSL/TLS                : 443
- - Dropbear                   : 109, 69, 143, 90, 83
+ - Dropbear                   : 109, 143, 69
  - WebScket Apache2 HTTP      : 80 
  - WebScket Apache2 SSL/TLS   : 443
  - Udp Custom & Request       : 1-65535
