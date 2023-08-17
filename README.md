@@ -78,6 +78,9 @@ sudo -i
 COMING SOON
 ```
 
+<b><details><summary>Service & Port</summary></b> 
+ <p align="center"> 
+ <img src="https://telegra.ph/file/5ea099c50949711920149.jpg"/> 
 ## <img src="https://img.shields.io/badge/-Services%20%26%20Port-brightgreen"> 
   
 # SSH
@@ -122,7 +125,6 @@ COMING SOON
 - SSLH MOD : 111, 700, 777, 109, 143
 - SLOWDNS  : 53, 5300, 3139, 3030
 - IGNITER  : 2087
-- L2TP     : 1171
 ```
 
 # CORE ALL SERVICE
@@ -164,6 +166,7 @@ GET ws://[host]/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connect
 ```
 GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerechan02[crlf][crlf]
 ```
+</details>
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
 
 
