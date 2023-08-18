@@ -191,10 +191,11 @@ GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerec
   
   
      <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202023-%20By%20Rerechan02%20『𝐅𝐍』%2C%20Inc-blue"></p> 
-Feedback => @Rerechan02
  <b> 
  </b> 
  <br> 
+</details>
+
 <b><details><summary>Other</summary></b> 
 # Server Status 
  <!--start: status pages--> 
