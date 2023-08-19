@@ -128,6 +128,19 @@ COMING SOON
 - IGNITER  : 2087
 ```
 
+# PATH SERVICE
+```
+- SSH      : /
+- VMESS    : /vmess /custom [ custom path ]
+- VLESS    : /vless
+- TROJAN   : /trojan-ws
+- IGNITER  : /igniter
+- SOCKS5   : /socks5
+- TR XTLS  : /xtls
+- GOPROXY  : /vmess /vless /trojan-ws /socks5
+- HAPROXY  : /
+```
+
 # CORE ALL SERVICE
 ```
 - SSLH CORE FunnyVPN
