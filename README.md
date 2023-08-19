@@ -137,8 +137,6 @@ COMING SOON
 - IGNITER  : /igniter
 - SOCKS5   : /socks5
 - TR XTLS  : /xtls
-- GOPROXY  : /vmess /vless /trojan-ws /socks5
-- HAPROXY  : /
 ```
 
 # CORE ALL SERVICE
