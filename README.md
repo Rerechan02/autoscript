@@ -23,23 +23,17 @@
 
 # Cara Install Script FN
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
-- Login to your vps (VPS MUST ROOT)
 - VPS Yang harus root ya bukan hp/pc/laptop nya
-- what you have to root is your VPS, not your device
 
 ***1. MASUK KE VPS LALU COMAND***
 ```
 sudo su
 ```
-atau
-```
-sudo -i
-```
 
 ***2. UPDATE TOOLS DI DALAM VPS***
 
 ```
-apt-get update && apt-get upgrade -y && update-grub && sleep 2 && apt install curl -y && apt install wget -y && reboot
+apt-get update && apt-get upgrade -y && update-grub && sleep 2 && apt install curl -y && apt install wget -y && apt install screen -y && ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && reboot
 ```
 - VPS Otomatis Akan Reboot/ Hidupkan Ulang VPS
 
@@ -48,14 +42,8 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && apt install cu
 ```
 sudo su
 ```
-atau
-```
-sudo -i
-```
 ***4. INSTALL SCRIPT***
 - Instalasi Script FN MultiPort
-- HARAP DI BACA
-- VPS WAJIB PUNYA AKSES ROOT
 ```
 COMING SOON
 ```
