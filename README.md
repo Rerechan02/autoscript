@@ -277,6 +277,7 @@ OPENVPN UDP  : 22000
 
 </details>
 
+<b><details>Syarat System</summary></b> 
 ### Persyaratan Sistem 
  |Sistem|Supported|Tested|Minimal|Disarankan| 
  |--|--|--|--|--| 
@@ -289,5 +290,6 @@ OPENVPN UDP  : 22000
  |Storage|-|`20 GB`|`15 GB`|`20 GB` *atau lebih*| 
  |Network|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*| 
  |ISP|*AWS Lightsail<br> DigitalOcean<br> Linode<br> Vultr<br> OVH<br> iTLDC<br> APIK Media<br> Atha Media<br> Biznet<br> Media Antar Nusa<br> IP ServerOne*|*AWS Lightsail*|-|-| 
+</details>
 
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
