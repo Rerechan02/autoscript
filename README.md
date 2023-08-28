@@ -277,6 +277,18 @@ OPENVPN UDP  : 22000
 
 </details>
 
+ ### Persyaratan Sistem 
+ |Sistem|Supported|Tested|Minimal|Disarankan| 
+ |--|--|--|--|--| 
+ |Virtualisasi|`KVM` `Xen`<br>  `VMware`<br>  `VirtualBox`|`Xen`|`Xen` `KVM`|`Xen` `KVM`| 
+ |CPU Arch|`amd64`|`amd64`|`amd64`|`amd64`| 
+ |OS|`Debian 10`<br> `Debian 11`|`Debian 11`|`Debian 10`|`Debian 11`| 
+ |OS Arch|`64 Bit`|`64 Bit`|`64 Bit`|`64 Bit`|`64 Bit`| 
+ |CPU|-|`1 Core`|`1 Core`|`2 Cores` *atau lebih*| 
+ |RAM|-|`512 MB`|`1 GB`|`2 GB` *atau lebih*| 
+ |Storage|-|`20 GB`|`15 GB`|`20 GB` *atau lebih*| 
+ |Network|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*| 
+ |ISP|*AWS Lightsail<br> DigitalOcean<br> Linode<br> Vultr<br> OVH<br> iTLDC<br> APIK Media<br> Atha Media<br> Biznet<br> Media Antar Nusa<br> IP ServerOne*|*AWS Lightsail*|-|-| 
  
 
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
