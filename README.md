@@ -277,7 +277,7 @@ OPENVPN UDP  : 22000
 
 </details>
 
-<b><details>Syarat System</summary></b> 
+<b><details><summary>Syarat System</summary></b> 
 ### Persyaratan Sistem 
  |Sistem|Supported|Tested|Minimal|Disarankan| 
  |--|--|--|--|--| 
