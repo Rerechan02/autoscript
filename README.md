@@ -281,7 +281,7 @@ OPENVPN UDP  : 22000
 ### Persyaratan Sistem 
  |Sistem|Supported|Tested|Minimal|Disarankan| 
  |--|--|--|--|--| 
- |Virtualisasi|`KVM`|`KVM`|`KVM`|`KVM` `KVM`| 
+ |Virtualisasi|`KVM`|`KVM`|`KVM`|`KVM`| 
  |CPU Arch|`amd64`|`amd64`|`amd64`|`amd64`| 
  |OS|`Debian 10`<br> `Ubuntu 20.04`|`Debian 10`<br> `Ubuntu 20.04`|`Debian 10`|`Debian 10`| 
  |OS Arch|`64 Bit`|`64 Bit`|`64 Bit`|`64 Bit`|`64 Bit`| 
