@@ -96,20 +96,29 @@ COMING SOON
  
 # XRAY MOD
 ```
-- SUPPORT MULTIPATH
-- XRAY VMESS WS NON TLS      : 80
-- XRAY VLESS WS NON TLS      : 80
-- XRAY SOCKS5 WS NON TLS     : 80
-- XRAY VMESS WS TLS/SSL      : 443
-- XRAY VLESS WS TLS/SSL      : 443
-- XRAY TROJAN WS TLS/SSL     : 443
-- XRAY SOCKS5 WS TLS/SSL     : 443
-- GOPROXY WEBSOCKET & TCP    : 80 & 443
+- XRAY VMESS WS NON TLS      : 80, 8880
+- XRAY VLESS WS NON TLS      : 80, 8880
+- XRAY SOCKS5 WS NON TLS     : 80, 8880
+- XRAY VMESS WS TLS/SSL      : 443, 2096
+- XRAY VLESS WS TLS/SSL      : 443, 2096
+- XRAY TROJAN WS TLS/SSL     : 443, 2096
+- XRAY SOCKS5 WS TLS/SSL     : 443, 2096
+- GOPROXY WEBSOCKET & TCP    : 80, 8880, 8080 & 443, 8443, 2096
+```
+
+# V2RAY
+```
+- V2RAY VMESS WS NON TLS      : 80, 8080, 8880
+- V2RAY VLESS WS NON TLS      : 80, 8080, 8880
+- V2RAY SOCKS5 WS NON TLS     : 80, 8080, 8880
+- V2RAY VMESS WS TLS/SSL      : 443, 2096, 8443
+- V2RAY VLESS WS TLS/SSL      : 443, 2096, 8443
+- V2RAY TROJAN WS TLS/SSL     : 443, 2096, 8443
+- V2RAY SOCKS5 WS TLS/SSL     : 443, 2096, 8443
 ```
 
 # OVER TCP XTLS
 ```
-- XRAY TROJAN TCP XTLS    : 445
 - SSH SSL/TLS 1.0 - 1.3   : 443
 - HAPROXY OVER TCP        : 443
 - GOPROXY OVER TCP        : 443
@@ -123,38 +132,49 @@ COMING SOON
 - HAPROXY  : 443
 - GOPROXY  : 443, 80, 8080
 - APACHE2  : 443, 80, 1080, 5153
-- SSLH MOD : 111, 700, 777, 109, 143
+- SSLH MOD : 111, 700, 777
 - SLOWDNS  : 53, 5300, 3139, 3030
 - IGNITER  : 2087
 ```
 
-# PATH SERVICE
+# PATH XRAY SERVICE
 ```
-- SSH      : /
 - VMESS    : /vmess /custom [ custom path ]
 - VLESS    : /vless
 - TROJAN   : /trojan-ws
-- IGNITER  : /igniter
+- IGNITER  : /igniter-go
 - SOCKS5   : /socks5
-- TR XTLS  : /xtls
+```
+
+# PATH V2RAY SERVICE:
+- VMESS    : /vmessws
+- VLESS    : /vlessws
+- TROJAN   : /trojan
+```
+
+# PATH SSH
+- SSH WEBSOCKET : /
+- SSH DROPBEAR  : /
+- SSH TCP SSL   : /
+- SSH DIRECT    : /
+- OPENSSH       : -
 ```
 
 # CORE ALL SERVICE
 ```
 - SSLH CORE FunnyVPN
 - XRAY CORE MOD DHARAK
-- GOPROXY ORGIN CORE
+- V2RAYFLY CORE V2RAY
+- GOPROXY MOD CORE
 - HAPROXY ORIGIN CORE
-- XRAY XTLS ORIGIN CORE
 - APACHE2 ORIGIN CORE
 ```
 
 # FEATURE
 ```
-- CHANGE DNS
-- BLOCK TORENT
+- CHANGE DNS SERVER
+- BLOCK ACCSES TORENT
 - INSTALL TCP BBR
-- SWITCH CORE SSH SSL
 - ANTI DDOS PROTECTION
 - ACOUNT SUPPORT GAMING
 - ACOUNT SUPPORT OPENWRT
@@ -165,16 +185,6 @@ COMING SOON
 - CEK ALL SERVICE RUNNING OR NOT FOR ABOUT
 ```
 
-# Payload Websocket Examples
-- ***Payload HTTPS***
-```
-GET ws://[host]/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerechan02[crlf][crlf]
-```
-
-- ***Payload HTTP***
-```
-GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: @Rerechan02[crlf][crlf]
-```
 </details>
 
 <b><details><summary>INFO</summary></b> 
