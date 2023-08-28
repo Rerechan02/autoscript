@@ -21,24 +21,6 @@
 
 ![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan『𝐅𝐍』&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
 
-<h2 align="center">VPN</h2>
-
-[![Hits](https://img.shields.io/badge/SSH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SLOWDNS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XTLS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/HAPROXY_TCP-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/GOPROXY_TCP-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-</h2>
-<h2 align="center">Protokol Tunneling SSH</h2>
-
-[![Hits](https://img.shields.io/badge/SSH-WEBSOCKET_&_SLOWDNS_&_SSL-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-</h2>
-<h2 align="center">Protokol Tunneling XRAY</h2>
-
-[![Hits](https://img.shields.io/badge/XRAY_VLESS/VMESS/TROJAN-WEBSOCKET_&_DNSTT_&_GRPC_&_XTLS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-</h2>
-
 # Cara Install Script FN
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
 - Login to your vps (VPS MUST ROOT)
