@@ -91,8 +91,13 @@ COMING SOON
  - WebScket Apache2 HTTP      : 80 
  - WebScket Apache2 SSL/TLS   : 443
  - Udp Custom & Request       : 1-65535
-
  ```
+
+#OPENVPN
+```
+OPENVPN TCP  : 1194, 443, 80
+OPENVPN UDP  : 22000
+```
  
 # XRAY MOD
 ```
