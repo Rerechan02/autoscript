@@ -328,4 +328,229 @@ curl -X GET -H 'Host: domain' -H 'Upgrade: websocket' -H 'Connection: Upgrade' -
 ```
 </details>
 
+<b><details><summary>Example Tunneling</summary></b>
+## SSH
+- SSH WEBSOCKET HTTP:
+```
+GET /path HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: websocket[crlf][crlf]
+```
+- SSH WEBSOCKET HTTPS:
+```
+GET wss://[host]/path HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: websocket[crlf][crlf]
+```
+- SSH DROPBEAR
+```
+CONNECT /path HTTP/1.0[crlf]Host: [host_port][crlf][crlf]
+```
+- SSH SSL/STUNNEL
+```
+CONNECT [host_port] HTTP/1.0[crlf][crlf]
+```
+- SSH RANDOM BUG SSL/SNI
+```
+[rotate=bug1.com;bug2.com]
+```
+## XRAY/V2RAY
+- HTTP
+```
+{
+		"inbounds": [],
+		"outbounds": [
+				{
+						"mux": {
+								"enabled": false
+						},
+						"protocol": "method",
+						"settings": {
+								"vnext": [
+										{
+												"address": "bug.com",
+												"port": 80,
+												"users": [
+														{
+																"alterId": 0,
+																"id": "uuid",
+																"level": 8,
+																"security": "auto"
+														}
+												]
+										}
+								]
+						},
+						"streamSettings": {
+								"network": "ws",
+								"security": "none",
+								"wsSettings": {
+										"headers": {
+												"Host": "subdomain"
+										},
+										"path": "/path"
+								}
+						},
+						"tag": "METHOD"
+				}
+		],
+		"policy": {
+				"levels": {
+						"8": {
+								"connIdle": 300,
+								"downlinkOnly": 1,
+								"handshake": 4,
+								"uplinkOnly": 1
+						}
+				}
+		}
+}
+```
+- HTTPS
+```
+{
+		"inbounds": [],
+		"outbounds": [
+				{
+						"mux": {
+								"enabled": false
+						},
+						"protocol": "method",
+						"settings": {
+								"vnext": [
+										{
+												"address": "bug.com",
+												"port": 443,
+												"users": [
+														{
+																"alterId": 0,
+																"id": "uuid",
+																"level": 8,
+																"security": "auto"
+														}
+												]
+										}
+								]
+						},
+						"streamSettings": {
+								"network": "ws",
+								"security": "tls",
+								"tlsSettings": {
+										"allowInsecure": false,
+										"serverName": "subdomain"
+								},
+								"wsSettings": {
+										"headers": {
+												"Host": "subdomain"
+										},
+										"path": "/path"
+								}
+						},
+						"tag": "METHOD"
+				}
+		],
+		"policy": {
+				"levels": {
+						"8": {
+								"connIdle": 300,
+								"downlinkOnly": 1,
+								"handshake": 4,
+								"uplinkOnly": 1
+						}
+				}
+		}
+}
+```
+## GRPC
+```
+{
+		"inbounds": [],
+		"outbounds": [
+				{
+						"mux": {
+								"enabled": false
+						},
+						"protocol": "method",
+						"settings": {
+								"vnext": [
+										{
+												"address": "subdomain",
+												"port": 443,
+												"users": [
+														{
+																"alterId": 0,
+																"id": "uuid",
+																"level": 8,
+																"security": "auto"
+														}
+												]
+										}
+								]
+						},
+						"streamSettings": {
+								"grpcSettings": {
+										"serviceName": "name-service"
+								},
+								"network": "grpc",
+								"security": "tls",
+								"tlsSettings": {
+										"allowInsecure": true,
+										"serverName": "bug.com"
+								}
+						},
+						"tag": "METHOD"
+				}
+		],
+		"policy": {
+				"levels": {
+						"8": {
+								"connIdle": 300,
+								"downlinkOnly": 1,
+								"handshake": 4,
+								"uplinkOnly": 1
+						}
+				}
+		}
+}
+```
+
+## CLASH
+- HTTP
+```
+proxies:
+  - name: nama
+    server: bug.com
+    port: 80
+    type: method
+    uuid: uuid
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: subdomain
+    network: ws
+    ws-opts:
+      path: /path
+      headers:
+        Host: subdomain
+    udp: true
+```
+- HTTPS
+```
+proxies:
+  - name: nama
+    server: bug.com
+    port: 443
+    type: method
+    uuid: uuid
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: subdomain
+    network: ws
+    ws-opts:
+      path: /path
+      headers:
+        Host: subdomain
+    udp: true
+```
+</details>
+
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
