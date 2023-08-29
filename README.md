@@ -181,7 +181,7 @@ OPENVPN UDP  : 22000
   
  -   Owner Rerechan02  
  -   Original Script by FunnyVPN & Github
- -   Modded and update Script by t.me/Rerechan02 / wa.me/6283120684925
+ -   Modded and update Script by Rerechan™
   
   
   
@@ -553,12 +553,11 @@ proxies:
 ```
 </details>
 
-<b><details><summary>Example Tunneling</summary></b>
+<b><details><summary>Contact Me :v</summary></b>
 ## don't forget to join
 [![Join WhatsApp Group 1](https://img.shields.io/badge/Join-WhatsApp%20Group1-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/LlJmbvSQ2DsHTA1EccNGoO)
 [![Join WhatsApp Group 2](https://img.shields.io/badge/Join-WhatsApp%20Group2-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/JcwmcqMAFlG4MhALblHsig)
 [![Join Telegram Chanel](https://img.shields.io/badge/Join-Telegram%20Chanel-bl.svg?logo=Telegram)](https://t.me/fn_project)
 [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-bl.svg?logo=Telegram)](https://t.me/Rerechan0022)
 </details>
-
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
