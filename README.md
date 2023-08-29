@@ -280,16 +280,17 @@ OPENVPN UDP  : 22000
  |ISP|*AWS Lightsail<br> DigitalOcean<br> Linode<br> Vultr<br> OVH<br> iTLDC<br> APIK Media<br> Atha Media<br> Biznet<br> Media Antar Nusa<br> IP ServerOne*|*AWS Lightsail*|-|-| 
 </details>
 
+
 |Tunnel|Path|APIKey|user|pass|expi|core|UUID|
-|--|--|--|--|--|--|--| 
+ |--|--|--|--|--|--|--|--|
  |SSH/OpenVPN|/|✅|✅|✅|✅|⛔️|⛔️|  
- |VMess|/vmess|✅|✅|⛔️|✅|✅|✅| 
- |VLess|/vless|✅|✅|⛔️|✅|✅|✅| 
- |Trojan|/trojan|✅|✅|⛔️|✅|✅|✅|
- |Socks5|/socks5|✅|✅|⛔️|✅|✅|✅| 
- |Igniter-Go|/igniter-go|✅|✅|⛔️|✅|⛔️|✅ 
- |UDP Custom|/|✅|✅|⛔️|✅|⛔️|⛔️|
- **Catatan** : ✅ - Diperlukan / ⛔️ - Tidak digunakan
+ |VMess|/vmess|✅|✅|⛔️|✅|✅|✅|  
+ |VLess|/vless|✅|✅|⛔️|✅|✅|✅|  
+ |Trojan|/trojan|✅|✅|⛔️|✅|✅|✅|  
+ |Socks5|/socks5|✅|✅|⛔️|✅|✅|✅|  
+ |Igniter-Go|/igniter-go|✅|✅|⛔️|✅|⛔️|✅  
+ |UDP Custom|/|✅|✅|⛔️|✅|⛔️|⛔️|  
+ **Catatan** : ✅ - Diperlukan / ⛔️ - Tidak digunakan  
   
 ## Response 
   
