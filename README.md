@@ -21,32 +21,20 @@
 
 ![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan『𝐅𝐍』&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
 
-# Cara Install Script FN
-- Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
-- VPS Yang harus root ya bukan hp/pc/laptop nya
-
-***1. MASUK KE VPS LALU COMAND***
-```
+<b><details><summary>INSTALL</summary></b>
+***ROOT***
+``` 
 sudo su
 ```
-
-***2. UPDATE TOOLS DI DALAM VPS***
-
+***TAHAP 1***
 ```
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && apt install curl -y && apt install wget -y && apt install screen -y && ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && reboot
 ```
-- VPS Otomatis Akan Reboot/ Hidupkan Ulang VPS
-
-***3. Login/Masuk Lagi Ke VPS***
-- Aktifkan Akses ROOT
-```
-sudo su
-```
-***4. INSTALL SCRIPT***
-- Instalasi Script FN MultiPort
+***TAHAP 2***
 ```
 COMING SOON
 ```
+</details>
 
 <b><details><summary>Service & Port</summary></b> 
  <p align="center"> 
