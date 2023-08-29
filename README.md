@@ -278,7 +278,6 @@ OPENVPN UDP  : 22000
  |Storage|-|`20 GB`|`15 GB`|`20 GB` *atau lebih*| 
  |Network|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*|*1xIPv4<br> Disable IPv6<br> Open Port*| 
  |ISP|*AWS Lightsail<br> DigitalOcean<br> Linode<br> Vultr<br> OVH<br> iTLDC<br> APIK Media<br> Atha Media<br> Biznet<br> Media Antar Nusa<br> IP ServerOne*|*AWS Lightsail*|-|-| 
-</details>
 
 |Tunnel|Path|APIKey|user|pass|expi|core|UUID|
  |--|--|--|--|--|--|--|--|
@@ -327,5 +326,6 @@ OPENVPN UDP  : 22000
 ```
 curl -X GET -H 'Host: domain' -H 'Upgrade: websocket' -H 'Connection: Upgrade' --proxy "proxy:80" -LksSiN domain
 ```
+</details>
 
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
