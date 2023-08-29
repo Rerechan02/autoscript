@@ -280,4 +280,55 @@ OPENVPN UDP  : 22000
  |ISP|*AWS Lightsail<br> DigitalOcean<br> Linode<br> Vultr<br> OVH<br> iTLDC<br> APIK Media<br> Atha Media<br> Biznet<br> Media Antar Nusa<br> IP ServerOne*|*AWS Lightsail*|-|-| 
 </details>
 
+|Tunnel|Path|APIKey|user|pass|expi|core| 
+ |--|--|--|--|--|--|--| 
+ |SSH/OpenVPN|/|✅|✅|✅|✅|⛔️|  
+ |VMess|/vmess|✅|✅|⛔️|✅|✅| 
+ |VLess|/vless|✅|✅|⛔️|✅|✅| 
+ |Trojan|/trojan|✅|✅|⛔️|✅|✅| 
+ |Socks5|/socks5|✅|✅|⛔️|✅|✅| 
+ |Igniter-Go|/igniter-go|✅|✅|⛔️|✅|⛔️| 
+ |UDP Custom|/|✅|✅|⛔️|✅|⛔️|
+ **Catatan** 
+  
+ ✅ - Diperlukan 
+  
+ ⛔️ - Tidak digunakan
+
+
+## Response 
+  
+ Success 
+  
+     { 
+             "ok": true, 
+             ... 
+     } 
+  
+ Failed 
+  
+     { 
+             "ok": false, 
+             "description": "Error Message" 
+     }
+     
+ ## SystemD 
+  
+ Start 
+  
+     systemctl start <service> 
+  
+ Stop 
+  
+     systemctl stop <service> 
+  
+ Retart 
+  
+     systemctl restart <service>
+     
+## Cheker Respone Connection
+```
+curl -X GET -H 'Host: domain' -H 'Upgrade: websocket' -H 'Connection: Upgrade' --proxy "proxy:80" -LksSiN domain
+```
+
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
