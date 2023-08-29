@@ -21,6 +21,8 @@
 
 ![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan『𝐅𝐍』&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
 
+<a href="https://t.me/fn_project"><img title="Made in Indonesia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a>
+
 # Cara Install Script FN
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
 - VPS Yang harus root ya bukan hp/pc/laptop nya
