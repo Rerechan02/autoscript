@@ -560,4 +560,5 @@ proxies:
 [![Join Telegram Chanel](https://img.shields.io/badge/Join-Telegram%20Chanel-bl.svg?logo=Telegram)](https://t.me/fn_project)
 [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-bl.svg?logo=Telegram)](https://t.me/Rerechan0022)
 </details>
+
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
