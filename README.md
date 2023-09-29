@@ -3,15 +3,7 @@
   </p>  
   
   
-<p xmlns:cc="http://creativecommons.org/ns#">Karya ini dilisensikan di bawah <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align :teks-bawah;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-dasar;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-dasar;" src="https://mirrors.creativecommons.org/presskit/icons/sa.
-</p>  
-  
-
-
-  <p align="center">  
-    <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>  
-  </p> 
- 
+<p xmlns:cc="http://creativecommons.org/ns#">Karya ini dilisensikan di bawah <a href="http://creativecommons.org/licenses/by-sa
  <p align="center"> 
  <img height=21 src="https://komarev.com/ghpvc/?username=praiman99"> 
  </p>
@@ -556,4 +548,6 @@ proxies:
 
  <p align="center">
 <a href="https://t.me/fn_project"><img title="Made in Indonesia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+<p xmlns:cc="http://creativecommons.org/ns#">Karya ini dilisensikan di bawah <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align :teks-bawah;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-dasar;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-dasar;" src="https://mirrors.creativecommons.org/presskit/icons/sa.
 </p>
