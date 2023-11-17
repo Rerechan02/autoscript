@@ -2,12 +2,6 @@
     <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>  
   </p>  
   
-  
-<p xmlns:cc="http://creativecommons.org/ns#">Karya ini dilisensikan di bawah <a href="http://creativecommons.org/licenses/by-sa
- <p align="center"> 
- <img height=21 src="https://komarev.com/ghpvc/?username=praiman99"> 
- </p>
-
 - Untuk script nya belum di buat, harap bersabar ya
 
 <p align="center">
